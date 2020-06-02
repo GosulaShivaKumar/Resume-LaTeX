@@ -1,2 +1,2 @@
 # Resume-LaTeX
-LaTeX code for my ressume
+LaTeX code for my CV
